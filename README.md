@@ -22,6 +22,7 @@ Chairperson of [TU Dublin's Computer Science Society](https://github.com/cs-soc-
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docusaurus](https://img.shields.io/badge/docusaurus-%233ECC5F.svg?style=for-the-badge&logo=docusaurus&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
