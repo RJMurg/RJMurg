@@ -3,7 +3,7 @@
 I'm driven to learn and make in technology, with experience in all aspects of the field.
 Currently focusing on Web Development and System Administration.
 
-Chairperson of [TU Dublin's Computer Science Society](https://github.com/cs-soc-tudublin)
+Current Systems Administrator and former Chair of [TU Dublin's Computer Science Society](https://github.com/cs-soc-tudublin)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjmurg&exclude_repo=CMPU1025-Work,Algorithms-Assignment&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
